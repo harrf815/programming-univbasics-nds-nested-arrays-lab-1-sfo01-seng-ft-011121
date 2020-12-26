@@ -35,7 +35,7 @@ def sorted_matrix
   storage_room =
     [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"], ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
   
-  storage_room.sort
+  
     
 end
 
