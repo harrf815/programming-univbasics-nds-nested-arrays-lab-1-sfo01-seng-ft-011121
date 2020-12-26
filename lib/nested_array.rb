@@ -34,7 +34,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   storage_room = [
     ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
-    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+    ["Strawberries", "Avocadoes", "Grapes", "Potatoes", "Asparagus"]
     ]
     
   
